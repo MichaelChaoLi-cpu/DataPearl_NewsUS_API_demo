@@ -5,9 +5,9 @@ This is the repo for a demo of US News API
 The API products would include several API proxies.
 
 ### DailyRelatedness
-- DailyRelatedness/latest
-[https://34.117.4.121.nip.io/DailyRelatedness/latest](https://34.117.4.121.nip.io/DailyRelatedness/latest)
-Clicking url will get the **latest** daily average relatedness score.
+- DailyRelatedness/latest                        
+[https://34.117.4.121.nip.io/DailyRelatedness/latest](https://34.117.4.121.nip.io/DailyRelatedness/latest)                            
+Clicking url will get the **latest** daily average relatedness score.                       
 ```
 {
   "totalRows": "1",
