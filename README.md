@@ -85,4 +85,9 @@ Performance is poor, when the industries are too long.
 - DailyRelatedness/date/*/popular_industry/top5
 - DailyRelatedness/date/*/popular_industry/top10
 
+## HotNews API proxy
+- HotNews/date/*/index/*/top/*        
+[https://34.117.4.121.nip.io/HotNews/date/2022-10-01/index/Greenhouse_gas/top/20](https://34.117.4.121.nip.io/HotNews/date/2022-10-01/index/Greenhouse_gas/top/20)        
+Clicking url will get the news with the **20** highest **Greenhouse_gas** relatedness score on **2022-10-01**. Date can be change, and format is strictly **YYYY-MM-DD**. Note: we limit to get top20 news everyday, now.        
+
 
