@@ -6,7 +6,7 @@ The API products would include several API proxies.
 
 ### DailyRelatedness
 - DailyRelatedness/latest                        
-[https://34.117.4.121.nip.io/DailyRelatedness/latest](https://34.117.4.121.nip.io/DailyRelatedness/latest)                            
+[https://34.160.4.245.nip.io/DailyRelatedness/latest](https://34.160.4.245.nip.io/DailyRelatedness/latest)                            
 Clicking url will get the **latest** daily average relatedness score.                       
 ```
 {
@@ -33,44 +33,44 @@ Clicking url will get the **latest** daily average relatedness score.
 ```
 
 - DailyRelatedness/latest/popular_esg      
-[https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg](https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg)      
+[https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg](https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg)      
 Clicking url will get **top3 ESG topics** of the latest record with the highest daily average relatedness score.      
 
 - DailyRelatedness/latest/popular_esg/top3       
-[https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg/top3](https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg/top3)      
+[https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg/top3](https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg/top3)      
 Clicking url will get **top3 ESG topics** of the latest record with the highest daily average relatedness score.      
 
 - DailyRelatedness/latest/popular_esg/top5        
-[https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg/top5](https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg/top5)      
+[https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg/top5](https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg/top5)      
 Clicking url will get **top5 ESG topics** of the latest record with the highest daily average relatedness score.      
 
 - DailyRelatedness/latest/popular_esg/top10
-[https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg/top10](https://34.117.4.121.nip.io/DailyRelatedness/latest/popular_esg/top10)        
+[https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg/top10](https://34.160.4.245.nip.io/DailyRelatedness/latest/popular_esg/top10)        
 Clicking url will get **top10 ESG topics** of the latest record with the highest daily average relatedness score.
 
 - DailyRelatedness/date/*        
-[https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01](https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01)        
+[https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01](https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01)        
 Clicking url will get the daily average relatedness score on **2022-10-01**. Date can be change, and format is strictly **YYYY-MM-DD**.       
 
 - DailyRelatedness/date/*/popular_esg        
-[https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg](https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg)      
+[https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg](https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg)      
 Clicking url will get **top3 ESG topics** with the highest daily average relatedness score on **2022-10-01**. Date can be change, and format is strictly **YYYY-MM-DD**.       
 
 - DailyRelatedness/date/*/popular_esg/top3        
-[https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top3](https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top3)       
+[https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top3](https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top3)       
 Clicking url will get **top3 ESG topics** with the highest daily average relatedness score on **2022-10-01**. Date can be change, and format is strictly **YYYY-MM-DD**.       
 
 - DailyRelatedness/date/*/popular_esg/top5          
-[https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top5](https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top5)        
+[https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top5](https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top5)        
 Clicking url will get **top3 ESG topics** with the highest daily average relatedness score on **2022-10-01**. Date can be change, and format is strictly **YYYY-MM-DD**.      
 
 - DailyRelatedness/date/*/popular_esg/top10         
-[https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top10](https://34.117.4.121.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top10)         
+[https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top10](https://34.160.4.245.nip.io/DailyRelatedness/date/2022-10-01/popular_esg/top10)         
 Clicking url will get **top5 ESG topics** with the highest daily average relatedness score on **2022-10-01**. Date can be change, and format is strictly **YYYY-MM-DD**.          
 
 - DailyRelatedness/index/*/from_date/*/to_date/*        
-[https://34.117.4.121.nip.io/DailyRelatedness/index/Forced_labor/from_date/2022-11-01/to_date/2022-12-01](https://34.117.4.121.nip.io/DailyRelatedness/index/Forced_labor/from_date/2022-11-01/to_date/2022-12-01)          
-Clicking url will get **Forced_labor** daily average relatedness score from **2022-11-01** to **2022-12-01**. index could be anyname returned by [https://34.117.4.121.nip.io/DailyRelatedness/latest](https://34.117.4.121.nip.io/DailyRelatedness/latest). Date can be change, and format is strictly **YYYY-MM-DD**.           
+[https://34.160.4.245.nip.io/DailyRelatedness/index/Forced_labor/from_date/2022-11-01/to_date/2022-12-01](https://34.160.4.245.nip.io/DailyRelatedness/index/Forced_labor/from_date/2022-11-01/to_date/2022-12-01)          
+Clicking url will get **Forced_labor** daily average relatedness score from **2022-11-01** to **2022-12-01**. index could be anyname returned by [https://34.160.4.245.nip.io/DailyRelatedness/latest](https://34.160.4.245.nip.io/DailyRelatedness/latest). Date can be change, and format is strictly **YYYY-MM-DD**.           
 
 
 ### Don't Deploy Industries 
@@ -87,7 +87,7 @@ Performance is poor, when the industries are too long.
 
 ## HotNews API proxy
 - HotNews/date/*/index/*/top/*        
-[https://34.117.4.121.nip.io/HotNews/date/2022-10-01/index/Greenhouse_gas/top/20](https://34.117.4.121.nip.io/HotNews/date/2022-10-01/index/Greenhouse_gas/top/20)        
+[https://34.160.4.245.nip.io/HotNews/date/2022-10-01/index/Greenhouse_gas/top/20](https://34.160.4.245.nip.io/HotNews/date/2022-10-01/index/Greenhouse_gas/top/20)        
 Clicking url will get the news with the **20** highest **Greenhouse_gas** relatedness score on **2022-10-01**. Date can be change, and format is strictly **YYYY-MM-DD**. Note: we limit to get top20 news everyday, now.        
 
 
